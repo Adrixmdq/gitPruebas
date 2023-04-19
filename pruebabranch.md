@@ -7,3 +7,8 @@ Untracked files:
         pruebabranch.md
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+git add pruebabranch.md
+git commit -m "ss"
+
+git push --set-upstream origin pruebabranch
